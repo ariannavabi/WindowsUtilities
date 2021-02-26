@@ -1,0 +1,26 @@
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\bin\Debug\ProxyDisabler.exe.config
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\bin\Debug\ProxyDisabler.exe
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\bin\Debug\ProxyDisabler.pdb
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.csprojResolveAssemblyReference.cache
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.Form_ProxyDisabler.resources
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.Properties.Resources.resources
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.csproj.GenerateResource.Cache
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.exe
+E:\-Projects\-Works\Other\Programs\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.pdb
+G:\-Projects\Programs and Codes\Personal\2018 and Before\ProxyDisabler\ProxyDisabler\bin\Debug\ProxyDisabler.exe.config
+G:\-Projects\Programs and Codes\Personal\2018 and Before\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.exe
+G:\-Projects\Programs and Codes\Personal\2018 and Before\ProxyDisabler\ProxyDisabler\obj\Debug\ProxyDisabler.pdb
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\bin\Debug\ProxyDisabler.exe.config
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\bin\Debug\ProxyDisabler.exe
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\bin\Debug\ProxyDisabler.pdb
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.csprojAssemblyReference.cache
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.Form_ProxyDisabler.resources
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.Properties.Resources.resources
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.csproj.GenerateResource.cache
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.csproj.CoreCompileInputs.cache
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.exe
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.pdb
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\bin\Debug\ProxyDisabler.exe.manifest
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\bin\Debug\ProxyDisabler.application
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.exe.manifest
+D:\Programs and Codes\Personal\2021\3-ProxyDisabler V2\ProxyDisabler\obj\Debug\ProxyDisabler.application
