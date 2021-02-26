@@ -26,7 +26,7 @@ This app allows you to send emojis using the function keys (F1, F2, ...) in Tele
 |F11|😀|
 
 
-*The hand emojis' color are the colors that you've chosen in the emoji menu. 
+*The hand emojis' colors are the colors that you've chosen in the emoji menu. 
 
 ## How to use  
   Download the [Telegram Emojis Shortcut V1.2.exe](https://github.com/ariannavabi/WindowsUtilities/blob/main/Telegram%20Emojis%20Shortcuts/Version%201.2/Telegram%20Emojis%20Shortcut%20V1.2.exe) file to use the app. No installations is needed, you only need to open the file.
