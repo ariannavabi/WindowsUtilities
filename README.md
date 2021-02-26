@@ -6,7 +6,7 @@ You can download the apps or their source code & use them. I hope it helps! :)
 
 **Here's a list of what each app does:**
 
-  ## Telegram Emojis Shortcuts
+  ## [Telegram Emojis Shortcuts](https://github.com/ariannavabi/WindowsUtilities/tree/main/Telegram%20Emojis%20Shortcuts)
   This app allows you to send emojis using the function keys (F1, F2, ...) in the Telegram messenger.
   
   In Telegram, some imojis are automatically converted to animated stickers. You can send un-stickered emojis with this app as well.
