@@ -6,9 +6,9 @@ This app is useful for when you **turn off your PC** while the **VPN is not turn
 
 **If you're not used to GitHub and you're confused, just click [here](https://github.com/ariannavabi/WindowsUtilities/raw/main/Proxy%20Disabler/ProxyDisabler.exe) to download the app! 😃**
 
-![Here's how ther app looks!](https://github.com/ariannavabi/WindowsUtilities/blob/main/Proxy%20Disabler/ProxyDisablerV2.0.0.0_SourceCode/ProxyDisabler_Screenshot.jpg?raw=true)
+![Here's how the app looks!](https://github.com/ariannavabi/WindowsUtilities/blob/main/Proxy%20Disabler/ProxyDisablerV2.0.0.0_SourceCode/ProxyDisabler_Screenshot.jpg?raw=true)
 
-The app is pretty simple and no installations is needed. 
+The app is pretty simple and no installations is needed. Just drop the file somewhere and run it, it will automatically disable your proxy & then show a result message.
 
 ## How to use  
   Download the [ProxyDisabler.exe](https://github.com/ariannavabi/WindowsUtilities/raw/main/Proxy%20Disabler/ProxyDisabler.exe) file to use the app. No installations is needed, you only need to open the file.
