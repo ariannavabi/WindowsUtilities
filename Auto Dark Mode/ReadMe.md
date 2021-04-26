@@ -1,11 +1,11 @@
-# Telegram Emojis Shortcuts App
+# Auto Dark Mode Task
 
-This app allows you to send emojis using the function keys (F1, F2, ...) in Telegram. It also alows you to send emojis as a non-Animated-Sticker format. The app is written using the AutoHotKeys scripting app & it works by sending keyboard inputs when you press a specific function key. 
+These scheduled tasks will automatically change your windows color to Dark after 7:00 PM & turn it back to Light at 6:00 AM in the morning.
 
-**If you're not used to GitHub and you're confused, just click [here](https://github.com/ariannavabi/WindowsUtilities/blob/main/Telegram%20Emojis%20Shortcuts/Version%201.2/Telegram%20Emojis%20Shortcut%20V1.2.exe) to download the app! 😃**
+**If you're not used to GitHub and you're confused, just click [here](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) to download the app! 😃**
 
 ## How to use  
-  1. Download the [Auto Dark Mode.exe](https://github.com/ariannavabi/WindowsUtilities/blob/main/Telegram%20Emojis%20Shortcuts/Version%201.2/Telegram%20Emojis%20Shortcut%20V1.2.exe) file & unzip it.
+  1. Download the [Auto Dark Mode.exe](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) file & unzip it.
   2. Open the start menu & time in "Task Scheduler" & open it.
   3. In the "Actions" panel on the right, click on "Import Tasks..." & import the files inside the folder you downloaded.
   4. Enjoy!
