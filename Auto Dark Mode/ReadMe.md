@@ -2,7 +2,7 @@
 
 These scheduled tasks will automatically change your windows color to Dark after 7:00 PM & turn it back to Light at 6:00 AM in the morning.
 
-**If you're not used to GitHub and you're confused, just click [here](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) to download the app! 😃**
+**If you're not used to GitHub and you're confused, just click [here](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) to download the file! 😃**
 
 ## How to use  
   1. Download the [Auto Dark Mode.exe](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) file & unzip it.
