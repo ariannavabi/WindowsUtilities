@@ -5,7 +5,7 @@ These scheduled tasks will automatically change your windows color to Dark after
 **If you're not used to GitHub and you're confused, just click [here](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) to download the file! 😃**
 
 ## How to use  
-  1. Download the [Auto Dark Mode.exe](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) file & unzip it.
+  1. Download the [Auto Dark Mode.zip](https://github.com/ariannavabi/WindowsUtilities/raw/main/Auto%20Dark%20Mode/Auto%20Dark%20Mode.zip) file & unzip it.
   2. Open the start menu & type in "Task Scheduler" & open it.
   3. In the "Actions" panel on the right, click on "Import Tasks..." & import the files inside the folder you downloaded.
   4. Enjoy!
